@@ -13,8 +13,12 @@
 <p align=center>${\textsf{\color{green}︶︶ɪ ᴏɴʟʏ ʙʟᴏᴄᴋ ɪғ ʏᴏᴜ'ʀᴇ ᴀ ᴘʀᴏsʜɪᴘ, ᴅᴀʀᴋsʜɪᴘ, ᴘʀᴏʙʟᴇᴍᴀᴛɪᴄ sʜɪᴘ, ᴛᴏxɪᴄ sʜɪᴘ, ᴡᴇɪʀᴅ sʜɪᴘ, ʀᴀᴄɪsᴛ, ᴇᴛᴄ. ᴅᴏ ɴᴏᴛ ɪɴᴛᴇʀᴀᴄᴛ.︶︶ }}$ 
 
 <p align=center>${\textsf{\color{green}︶︶ɪ sᴏᴍᴇᴛɪᴍᴇs ʟɪᴋᴇ ᴛᴏ ʀᴇᴘʟʏ ᴛᴏ/ᴍᴇssᴀɢᴇ sᴏᴍᴇᴏɴᴇ's ᴀᴛᴀʙᴏᴏᴋ ᴛʜᴀᴛ ʜᴀs ᴀ ᴋɪɴᴅ ʜᴇᴀʀᴛ.︶︶ }}$ 
+  
+#
 
-
+<p align=center>${\textsf{\color{green}︶︶𝐌𝗒 ꭑα𝗂𐓣 α𝖼𝖼ⱺυ𐓣𝗍.︶︶ }}$ 
+  
+ ╰┈➤ [︶︶𝗄𝗂𐓣𝗀 𝗋𝖾𝗑𝗍𝖾𝗋︶︶ ](https://github.com/G-rimlock) 
 #
 
 <details>
