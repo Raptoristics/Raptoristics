@@ -16,7 +16,7 @@
   
 #
 
-<p align=center>${\textsf{\color{green}︶︶𝐌𝗒 ꭑα𝗂𐓣 α𝖼𝖼ⱺυ𐓣𝗍.︶︶ }}$ 
+<p align=center>${\textsf{\color{green}︶︶𝐌𝗒 𝖿rіᥱᥒძ's ꭑα𝗂𐓣 α𝖼𝖼ⱺυ𐓣𝗍.︶︶ }}$ 
   
  ${\textsf{\color{green}╰┈➤}}$   [︶︶𝗄𝗂𐓣𝗀 𝗋𝖾𝗑𝗍𝖾𝗋︶︶ ](https://github.com/G-rimlock)
 #
